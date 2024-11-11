@@ -1,0 +1,7 @@
+.input-box {
+    @apply w-[15vw] rounded bg-[#F6F7FB] px-[30px] py-[10px];
+}
+
+.error-message {
+    @apply text-red-500 text-sm max-w-[15vw] break-words mt-1;
+}
